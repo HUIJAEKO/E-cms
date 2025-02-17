@@ -2,7 +2,7 @@
 
 간단한 커머스 프로젝트
 
-Use : Spring, Jpa, Mysql, Docker, Aws
+기술 스택 : Spring, Jpa, Mysql, Docker, Aws
 
 Goal : 셀러와 구매자 사이를 중개해주는 커머스 서버 구축 
 
